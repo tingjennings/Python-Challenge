@@ -4,13 +4,13 @@
 
 Well... you've made it!
 
-It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete the **two** Python Challenges, PyBank and PyPoll.
+It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this assignment, you'll be using the concepts you've learned to complete the **two** Python Challenges, PyBank and PyPoll.
 
 Both of these challenges encompass a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
 
 ### Before You Begin
 
-* Create a new repository for this project called `python-challenge`. **Do not add this homework to an existing repository**.
+* Create a new repository for this project called `python-challenge`. 
 
 * Clone the new repository to your computer.
 
@@ -110,13 +110,3 @@ Both of these challenges encompass a real-world situation where your newfound Py
 
 
 
-## Copyright
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-# Python-Challenge-
-# Python-Challenge-
-# Python-Challenge
-# Python-Challenge
-# Python-Challenge
-# Python-Challenge
-# Python-Challenge
